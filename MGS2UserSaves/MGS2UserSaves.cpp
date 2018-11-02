@@ -24,7 +24,7 @@ static void SetUpSavesPath_New()
 		PathAppendA( fullPath, "My Games" );
 		CreateDirectoryA( fullPath, nullptr );
 
-		PathCombineA( AbsoluteSavePath, fullPath, "Metal Gear Solid 2 Substance" );
+		PathCombineA( AbsoluteSavePath, fullPath, "METAL GEAR SOLID 2 SUBSTANCE" );
 	}
 	else
 	{
